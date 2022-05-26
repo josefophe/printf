@@ -1,5 +1,1 @@
-## This is printf task
-
-This task involves collaboration with my team mate
-
-I am going to invite my teammate to this remote
+0x11. C - printf, a Project to be done in teams of 2 people and here is Emmanuel Nshimiyimana and Wills Ajiboye.
